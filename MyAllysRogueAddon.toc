@@ -1,0 +1,6 @@
+## Interface: 30300 
+## Title: MyAllysRogueAddon
+## Notes: My Ally Rogue Addon in Wow
+
+main.xml
+main.lua
